@@ -203,4 +203,5 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
 
-  remote_theme : bencentra/centrarium
+# Add line
+remote_theme : bencentra/centrarium
